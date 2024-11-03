@@ -13,6 +13,7 @@ psutil
 py-tgcalls==0.9.7
 pykeyboard
 #pyrofork
+electrogram
 python-dotenv
 pyyaml
 requests
